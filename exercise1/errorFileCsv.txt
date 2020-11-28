@@ -1,0 +1,67 @@
+Error, Information
+breee, ticky: ERROR The ticket was modified while updating
+ac, ticky: ERROR Permission denied while closing ticket
+mcintosh, ticky: ERROR Tried to add information to closed ticket
+jackowens, ticky: ERROR Tried to add information to closed ticket
+mdouglas, ticky: ERROR Tried to add information to closed ticket
+oren, ticky: ERROR Timeout while retrieving information
+xlg, ticky: ERROR Ticket doesn't exist
+ahmed.miller, ticky: ERROR Timeout while retrieving information
+blossom, ticky: ERROR Ticket doesn't exist
+bpacheco, ticky: ERROR The ticket was modified while updating
+enim.non, ticky: ERROR Ticket doesn't exist
+rr.robinson, ticky: ERROR Permission denied while closing ticket
+oren, ticky: ERROR Tried to add information to closed ticket
+mcintosh, ticky: ERROR Timeout while retrieving information
+ahmed.miller, ticky: ERROR Timeout while retrieving information
+jackowens, ticky: ERROR Connection to DB failed
+flavia, ticky: ERROR Permission denied while closing ticket
+oren, ticky: ERROR Tried to add information to closed ticket
+sri, ticky: ERROR Tried to add information to closed ticket
+nonummy, ticky: ERROR Connection to DB failed
+flavia, ticky: ERROR The ticket was modified while updating
+oren, ticky: ERROR Connection to DB failed
+xlg, ticky: ERROR Timeout while retrieving information
+flavia, ticky: ERROR Timeout while retrieving information
+jackowens, ticky: ERROR Connection to DB failed
+flavia, ticky: ERROR Ticket doesn't exist
+jackowens, ticky: ERROR Tried to add information to closed ticket
+montanap, ticky: ERROR Timeout while retrieving information
+britanni, ticky: ERROR Permission denied while closing ticket
+montanap, ticky: ERROR Permission denied while closing ticket
+noel, ticky: ERROR Tried to add information to closed ticket
+oren, ticky: ERROR Timeout while retrieving information
+ac, ticky: ERROR Connection to DB failed
+blossom, ticky: ERROR Timeout while retrieving information
+montanap, ticky: ERROR Permission denied while closing ticket
+breee, ticky: ERROR Tried to add information to closed ticket
+sri, ticky: ERROR Connection to DB failed
+montanap, ticky: ERROR Timeout while retrieving information
+ahmed.miller, ticky: ERROR Permission denied while closing ticket
+mai.hendrix, ticky: ERROR Connection to DB failed
+ahmed.miller, ticky: ERROR Tried to add information to closed ticket
+mai.hendrix, ticky: ERROR Permission denied while closing ticket
+kirknixon, ticky: ERROR Connection to DB failed
+flavia, ticky: ERROR Ticket doesn't exist
+blossom, ticky: ERROR Permission denied while closing ticket
+nonummy, ticky: ERROR Tried to add information to closed ticket
+breee, ticky: ERROR The ticket was modified while updating
+enim.non, ticky: ERROR The ticket was modified while updating
+xlg, ticky: ERROR Timeout while retrieving information
+noel, ticky: ERROR Tried to add information to closed ticket
+blossom, ticky: ERROR Ticket doesn't exist
+enim.non, ticky: ERROR Permission denied while closing ticket
+mdouglas, ticky: ERROR The ticket was modified while updating
+oren, ticky: ERROR Timeout while retrieving information
+bpacheco, ticky: ERROR Connection to DB failed
+mcintosh, ticky: ERROR The ticket was modified while updating
+oren, ticky: ERROR Connection to DB failed
+noel, ticky: ERROR The ticket was modified while updating
+nonummy, ticky: ERROR Ticket doesn't exist
+blossom, ticky: ERROR Timeout while retrieving information
+mai.hendrix, ticky: ERROR Timeout while retrieving information
+xlg, ticky: ERROR Timeout while retrieving information
+breee, ticky: ERROR Connection to DB failed
+mdouglas, ticky: ERROR Connection to DB failed
+breee, ticky: ERROR Connection to DB failed
+blossom, ticky: ERROR The ticket was modified while updating
